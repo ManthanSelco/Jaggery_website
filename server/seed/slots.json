@@ -1,0 +1,3311 @@
+[
+ {
+  "slotId": "site-logo",
+  "page": "global",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "SELCO Foundation logo (shown in the header on every page)",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Logo"
+  },
+  "items": []
+ },
+ {
+  "slotId": "index-1",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Home banner video (60-90 sec) — Full journey in one clip: cane harvest, crushing, boiling in pans, cooling, moulding or powdering, packed jaggery",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Home banner video (60-90 sec)",
+   "caption": "Full journey in one clip: cane harvest, crushing, boiling in pans, cooling, moulding or powdering, packed jaggery"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/journey-montage.mp4",
+    "poster": "/uploads/videos/journey-montage.jpg",
+    "title": "From cane to packed jaggery",
+    "caption": "Crushing, filtering, the bagasse fire, boiling, clarifying, packing, labelling and sealing at the unit",
+    "button": "Full screen"
+   }
+  ]
+ },
+ {
+  "slotId": "index-2",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Solid jaggery blocks (gur): traditional blocks and cubes",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Solid jaggery blocks (gur): traditional blocks and cubes"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/%281%29_Jaggery_Gud_Punjab_India.jpg?width=960",
+    "caption": "Solid jaggery blocks (gur): traditional blocks and cubes",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:%281%29_Jaggery_Gud_Punjab_India.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-3",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Liquid jaggery in a bottle or jar",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Liquid jaggery in a bottle or jar"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Liquid_Jaggery.jpg?width=960",
+    "caption": "Liquid jaggery in a bottle or jar",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Liquid_Jaggery.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-4",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Granular / powder jaggery, loose and in a packet",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Granular / powder jaggery, loose and in a packet"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/powder-loose-and-packet.jpg",
+    "caption": "Granular / powder jaggery, loose and in a packet"
+   }
+  ]
+ },
+ {
+  "slotId": "index-6",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Pure jaggery powder",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pure jaggery powder"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/An_image_of_jaggery_powder.JPG?width=960",
+    "caption": "Pure jaggery powder",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:An_image_of_jaggery_powder.JPG"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-7",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Pure jaggery granules",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pure jaggery granules"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/jaggery-granules.jpg",
+    "caption": "Pure jaggery granules"
+   }
+  ],
+  "forceItems": true
+ },
+ {
+  "slotId": "index-8",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Jaggery cubes",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Jaggery cubes"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery_cubes.jpg?width=960",
+    "caption": "Jaggery cubes",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery_cubes.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-9",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Mini jaggery tablets",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mini jaggery tablets"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jiggery%2C_shaped.JPG?width=960",
+    "caption": "Mini jaggery tablets",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jiggery%2C_shaped.JPG"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-10",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "photo",
+  "label": "Traditional jaggery blocks",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Traditional jaggery blocks"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Organic_Chemical_free_Kolhapur_Jaggery_Dhep_%28Block%29_-_1_Kg_each.jpg?width=960",
+    "caption": "Traditional jaggery blocks",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Organic_Chemical_free_Kolhapur_Jaggery_Dhep_%28Block%29_-_1_Kg_each.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "index-11",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Mrs. Soumya at her solar-powered jaggery unit, Pandavapura",
+  "placeholder": {
+   "tag": "Insert video / photo",
+   "icon": true,
+   "title": "",
+   "caption": "Mrs. Soumya at her solar-powered jaggery unit, Pandavapura"
+  },
+  "items": []
+ },
+ {
+  "slotId": "index-12",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Add title and thumbnail",
+  "placeholder": {
+   "tag": "Video 1",
+   "icon": false,
+   "title": "",
+   "caption": "Add title and thumbnail"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://i.ytimg.com/vi/b7Gh-FQ3AB0/hqdefault.jpg",
+    "caption": ""
+   }
+  ]
+ },
+ {
+  "slotId": "index-13",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Add title and thumbnail",
+  "placeholder": {
+   "tag": "Video 2",
+   "icon": false,
+   "title": "",
+   "caption": "Add title and thumbnail"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://i.ytimg.com/vi/vgAHiG8Tw8k/hqdefault.jpg",
+    "caption": ""
+   }
+  ]
+ },
+ {
+  "slotId": "index-14",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Add title and thumbnail",
+  "placeholder": {
+   "tag": "Video 3",
+   "icon": false,
+   "title": "",
+   "caption": "Add title and thumbnail"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://i.ytimg.com/vi/fW_8EshmmQU/hqdefault.jpg",
+    "caption": ""
+   }
+  ]
+ },
+ {
+  "slotId": "index-15",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Add title and thumbnail",
+  "placeholder": {
+   "tag": "Video 4",
+   "icon": false,
+   "title": "",
+   "caption": "Add title and thumbnail"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://i.ytimg.com/vi/IhUdfB2uzgI/hqdefault.jpg",
+    "caption": ""
+   }
+  ]
+ },
+ {
+  "slotId": "index-16",
+  "page": "index",
+  "pageRoute": "/",
+  "kind": "video",
+  "label": "Add title and thumbnail",
+  "placeholder": {
+   "tag": "Video 5",
+   "icon": false,
+   "title": "",
+   "caption": "Add title and thumbnail"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://i.ytimg.com/vi/Fwae9cBE-f4/hqdefault.jpg",
+    "caption": ""
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-1",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "video",
+  "label": "Step 1 · Harvesting sugarcane — Cutting ripe cane at ground level, stripping dry leaves, setting aside green tops for fodder",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 1 · Harvesting sugarcane",
+   "caption": "Cutting ripe cane at ground level, stripping dry leaves, setting aside green tops for fodder"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/cane-harvesting.mp4",
+    "poster": "/uploads/videos/cane-harvesting.jpg",
+    "title": "Sugarcane harvesting",
+    "caption": "Cane harvester cutting ripe sugarcane in the field"
+   },
+   {
+    "type": "youtube",
+    "youtubeId": "rXnplUWpBIw",
+    "title": "Step 1 · Harvesting sugarcane",
+    "caption": "Cutting ripe cane and carrying it from the field to the unit"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-2",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "video",
+  "label": "Step 2 · Washing and peeling cane — High-pressure water gun cleaning stalks; saw-tooth peeling unit in operation",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 2 · Washing and peeling cane",
+   "caption": "High-pressure water gun cleaning stalks; saw-tooth peeling unit in operation"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/cane-cleaning.mp4",
+    "poster": "/uploads/videos/cane-cleaning.jpg",
+    "title": "Cleaning sugarcane",
+    "caption": "Cane washed in water tanks before crushing"
+   },
+   {
+    "type": "youtube",
+    "youtubeId": "9MSp8ZvVQZY",
+    "title": "Step 2 · Cleaning the cane",
+    "caption": "Washing stalks and removing dirt and dry leaves before crushing"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-3",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Saw-tooth cane peeling unit, close-up of blades",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Saw-tooth cane peeling unit, close-up of blades"
+  },
+  "items": []
+ },
+ {
+  "slotId": "steps-1-4-4",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "video",
+  "label": "Step 3 · Crushing in a 3-roller horizontal crusher — Cane fed between rollers, juice flowing into the collection tray, bagasse leaving through the chute",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 3 · Crushing in a 3-roller horizontal crusher",
+   "caption": "Cane fed between rollers, juice flowing into the collection tray, bagasse leaving through the chute"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/crushing-1.mp4",
+    "poster": "/uploads/videos/crushing-1.jpg",
+    "title": "Step 3 · Crushing the cane",
+    "caption": "Cane fed between the rollers; juice collects below while bagasse comes out"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-5",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Traditional: manual cane feeding into crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Traditional: manual cane feeding into crusher"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cane-feeding-traditional.jpg",
+    "caption": "Traditional: manual cane feeding into crusher",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-6",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Modern: multi-roller crusher units with conveyor feeding",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Modern: multi-roller crusher units with conveyor feeding"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cane-conveyor-crusher.jpg",
+    "caption": "Modern: multi-roller crusher units with conveyor feeding",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-7",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Bagasse chute and collection",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse chute and collection"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/crusher-bagasse-chute.jpg",
+    "caption": "Bagasse chute and collection"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-8",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "video",
+  "label": "Step 4 · Filtering and settling juice — Juice passing through the 5-layer filter, flowing into the stainless steel settling tank, clear juice drawn off",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 4 · Filtering and settling juice",
+   "caption": "Juice passing through the 5-layer filter, flowing into the stainless steel settling tank, clear juice drawn off"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/filter-settle-juice.mp4",
+    "poster": "/uploads/videos/filter-settle-juice.jpg",
+    "title": "Step 4 · Filtering and settling the juice",
+    "caption": "Fresh juice from the crusher strained into the collection drum"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-9",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Stainless steel wire mesh strainer under crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Stainless steel wire mesh strainer under crusher"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-ss-strainer.jpg",
+    "caption": "Stainless steel wire mesh strainer under crusher",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-10",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Five-layer filter and SS settling tank",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Five-layer filter and SS settling tank"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-ss-settling-tanks.jpg",
+    "caption": "Five-layer filter and SS settling tank",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-1-4-11",
+  "page": "steps-1-4",
+  "pageRoute": "/steps-1-4-cane-to-juice",
+  "kind": "photo",
+  "label": "Traditional masonry settling tank with middle port",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Traditional masonry settling tank with middle port"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-traditional-juice-pit.jpg",
+    "caption": "Traditional masonry settling tank with middle port",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-1",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "video",
+  "label": "Step 5 · Adding a natural clarifier and removing scum — Preparing bhindi/deola mucilage, adding it to the juice before heating, scum rising and being skimmed off",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 5 · Adding a natural clarifier and removing scum",
+   "caption": "Preparing bhindi/deola mucilage, adding it to the juice before heating, scum rising and being skimmed off"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/clarification.mp4",
+    "poster": "/uploads/videos/clarification.jpg",
+    "title": "Step 5 · Clarifying the juice",
+    "caption": "Scum rising on the heated juice and being skimmed off"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-2",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Deola / bhindi stems and roots",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Deola / bhindi stems and roots"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Okra_-_Abelmoschus_esculentus_%28Vendakka-ml%29.jpg?width=960",
+    "caption": "Deola / bhindi stems and roots",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Okra_-_Abelmoschus_esculentus_%28Vendakka-ml%29.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-3",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Pounding and soaking to make mucilage",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pounding and soaking to make mucilage"
+  },
+  "items": []
+ },
+ {
+  "slotId": "steps-5-6-4",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Castor / groundnut seed milk being strained",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Castor / groundnut seed milk being strained"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Castor_beans.jpg?width=960",
+    "caption": "Castor seeds",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Castor_beans.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-5",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Muslin cloth and nylon mesh filters in use",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Muslin cloth and nylon mesh filters in use"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/juice-filter-cloth.jpg",
+    "caption": "Muslin cloth and nylon mesh filters in use"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-6",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "pH balancing: additives stirred into the open pan by hand",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "pH balancing: additives stirred into the open pan by hand"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-open-pan-additives.jpg",
+    "caption": "pH balancing: additives stirred into the open pan by hand",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-7",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "pH balancing: automatic clarifier dosing tanks",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "pH balancing: automatic clarifier dosing tanks"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-clarifier-dosing-tanks.jpg",
+    "caption": "pH balancing: automatic clarifier dosing tanks",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-8",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Clarification: workers skimming scum with long ladles",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Clarification: workers skimming scum with long ladles"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/skimming-scum.jpg",
+    "caption": "Clarification: workers skimming scum with long ladles"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-9",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Clarification: clarifier unit and process diagram",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Clarification: clarifier unit and process diagram"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-clarifier-diagram.jpg",
+    "caption": "Clarification: clarifier unit and process diagram",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-10",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "video",
+  "label": "Step 6 · Boiling, scumming and the water-drop test — Juice heated in pans over the furnace, scum skimmed, syrup thickening, a drop of syrup tested in cold water",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 6 · Boiling, scumming and the water-drop test",
+   "caption": "Juice heated in pans over the furnace, scum skimmed, syrup thickening, a drop of syrup tested in cold water"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/boiling-1.mp4",
+    "poster": "/uploads/videos/boiling-1.jpg",
+    "title": "Step 6 · Boiling in the pan",
+    "caption": "Juice boiling over the furnace as water is driven out"
+   },
+   {
+    "type": "video",
+    "src": "/uploads/videos/boiling-2.mp4",
+    "poster": "/uploads/videos/boiling-2.jpg",
+    "title": "Syrup thickening",
+    "caption": "Close look at the syrup as it nears the striking point"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-11",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Hand shaping a drop of syrup in cold water",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hand shaping a drop of syrup in cold water"
+  },
+  "items": []
+ },
+ {
+  "slotId": "steps-5-6-12",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Concentration in a large open pan with steam rising",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Concentration in a large open pan with steam rising"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Making_Jaggery_%28Gur%29_in_Punjab.jpg?width=960",
+    "caption": "Concentration in a large open pan with steam rising",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Making_Jaggery_%28Gur%29_in_Punjab.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-13",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Concentration in a stainless steel multi-stage line",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Concentration in a stainless steel multi-stage line"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-ss-multistage-line.jpg",
+    "caption": "Concentration in a stainless steel multi-stage line",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-14",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Perforated skimmer removing foam",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Perforated skimmer removing foam"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/skimmer-lifting-scum.jpg",
+    "caption": "Perforated skimmer removing foam"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-15",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Motor-driven pan stirrer / agitator",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Motor-driven pan stirrer / agitator"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-pan-stirrer.jpg",
+    "caption": "Motor-driven pan stirrer / agitator",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-16",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Bagasse spread in the open field to sun dry",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse spread in the open field to sun dry"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sugarcane_bagasse.jpg?width=960",
+    "caption": "Sugarcane bagasse",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sugarcane_bagasse.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-17",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Rotary bagasse dryer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Rotary bagasse dryer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-rotary-bagasse-dryer.jpg",
+    "caption": "Rotary bagasse dryer",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-18",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Bagasse pushed by hand into the furnace mouth",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse pushed by hand into the furnace mouth"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/furnace-mouth-fire.jpg",
+    "caption": "Bagasse pushed by hand into the furnace mouth"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-19",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Bagasse-fired steam boiler with feed system",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse-fired steam boiler with feed system"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-bagasse-boiler-feed.jpg",
+    "caption": "Bagasse-fired steam boiler with feed system",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-20",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "video",
+  "label": "Bagasse feeding and furnace operation",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "",
+   "caption": "Bagasse feeding and furnace operation"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/bagasse-fuel.mp4",
+    "poster": "/uploads/videos/bagasse-fuel.jpg",
+    "title": "Bagasse as fuel",
+    "caption": "Dry bagasse fed into the furnace mouth to keep the pans boiling"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-21",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Grate furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Grate furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-grate-furnace-diagram.jpg",
+    "caption": "Grate furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-22",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Hearth furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hearth furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-hearth-furnace.jpg",
+    "caption": "Hearth furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-24",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Heat: worker feeding open fire under a large pan",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Heat: worker feeding open fire under a large pan"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery.jpg?width=960",
+    "caption": "Heating juice in a large pan over the furnace",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-5-6-25",
+  "page": "steps-5-6",
+  "pageRoute": "/steps-5-6-clarify-and-boil",
+  "kind": "photo",
+  "label": "Heat: steam lines and closed heating system",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Heat: steam lines and closed heating system"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-steam-heating-system.jpg",
+    "caption": "Heat: steam lines and closed heating system",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-1",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "video",
+  "label": "Step 7 · Cooling and stirring the slurry — Hot slurry poured into the cooling pan, stirred with a flat wooden stirrer until the shine disappears",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 7 · Cooling and stirring the slurry",
+   "caption": "Hot slurry poured into the cooling pan, stirred with a flat wooden stirrer until the shine disappears"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/cooling-syrup.mp4",
+    "poster": "/uploads/videos/cooling-syrup.jpg",
+    "title": "Cooling the syrup",
+    "caption": "Hot syrup moved into the cooling pan and stirred"
+   },
+   {
+    "type": "youtube",
+    "youtubeId": "ag2xlcslBAY",
+    "title": "Step 7 · Cooling the syrup",
+    "caption": "YouTube: Jaggery Making Process, from boiling to cooling"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-2",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Cooling in an open pan on a platform, hand stirring",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cooling in an open pan on a platform, hand stirring"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cooling-tank-hand-stirring.jpg",
+    "caption": "Cooling in an open pan on a platform, hand stirring",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-3",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Mechanised cooling tray / tunnel cooler",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mechanised cooling tray / tunnel cooler"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-tunnel-cooler.jpg",
+    "caption": "Mechanised cooling tray / tunnel cooler",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-4",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Cooling pan (chak) on wheels",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cooling pan (chak) on wheels"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cooling-pan-wheels.jpg",
+    "caption": "Cooling pan (chak) on wheels",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-5",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Workers pressing jaggery into moulds by hand",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Workers pressing jaggery into moulds by hand"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Colocando_rapadura_nos_moldes_de_madeira.jpg?width=960",
+    "caption": "Workers pressing jaggery into moulds by hand",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Colocando_rapadura_nos_moldes_de_madeira.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-6",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Automated mould depositor on a conveyor",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Automated mould depositor on a conveyor"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-mould-depositor.jpg",
+    "caption": "Automated mould depositor on a conveyor",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-7",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Rows of bucket-shaped blocks after demoulding",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Rows of bucket-shaped blocks after demoulding"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery_dans_une_sucrerie_traditionnelle_%28Kallikoppalu%2C_Inde%29_%2814528469953%29.jpg?width=960",
+    "caption": "Jaggery blocks ready for market, Karnataka",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery_dans_une_sucrerie_traditionnelle_%28Kallikoppalu%2C_Inde%29_%2814528469953%29.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-8",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Machine releasing uniform round blocks",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Machine releasing uniform round blocks"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-uniform-round-blocks.jpg",
+    "caption": "Machine releasing uniform round blocks",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-9",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "video",
+  "label": "Path A · Moulding and demoulding — Pouring into moulds, setting and releasing blocks",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Path A · Moulding and demoulding",
+   "caption": "Pouring into moulds, setting and releasing blocks"
+  },
+  "items": [
+   {
+    "type": "youtube",
+    "youtubeId": "5W2YaojqhLY",
+    "title": "Path A · Moulding blocks",
+    "caption": "YouTube: Process of making jaggery from sugarcane, ending with cooling in moulds"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-10",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Shearing the mass with scrapers in an aluminium tray",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Shearing the mass with scrapers in an aluminium tray"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-shearing-into-powder.jpg",
+    "caption": "Shearing the mass with scrapers in an aluminium tray",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-11",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Granular jaggery making machine",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Granular jaggery making machine"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-jaggery-granulator.jpg",
+    "caption": "Granular jaggery making machine",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-12",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "video",
+  "label": "Path B · Making granules and powder",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "",
+   "caption": "Path B · Making granules and powder"
+  },
+  "items": [
+   {
+    "type": "youtube",
+    "youtubeId": "9-dFyF1zv9g",
+    "title": "Path B · Making granules and powder",
+    "caption": "YouTube: Organic jaggery powder manufacturing process (CVR Natural Farms)"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-13",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Liquid jaggery being bottled",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Liquid jaggery being bottled"
+  },
+  "items": []
+ },
+ {
+  "slotId": "steps-7-11-14",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "video",
+  "label": "Step 9 · Drying and sieving powder — Granules spread on trays in a solar dryer, then passed through a 3 mm sieve",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 9 · Drying and sieving powder",
+   "caption": "Granules spread on trays in a solar dryer, then passed through a 3 mm sieve"
+  },
+  "items": [
+   {
+    "type": "youtube",
+    "youtubeId": "SplVt8y9H3M",
+    "title": "Step 9 · Drying and sieving powder",
+    "caption": "YouTube: Jaggery powder processing"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-15",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Solar / tray dryer with granules",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Solar / tray dryer with granules"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/solar-tray-dryer.jpg",
+    "caption": "Solar / tray dryer with granules"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-16",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "3 mm sieve / vibratory sifter",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "3 mm sieve / vibratory sifter"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vibrationssiebmaschine.jpg?width=960",
+    "caption": "Vibratory sifter",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Vibrationssiebmaschine.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-17",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Finished powder, close-up of crystal size",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Finished powder, close-up of crystal size"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery_powder.png?width=960",
+    "caption": "Finished powder, close-up of crystal size",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery_powder.png"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-18",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "video",
+  "label": "Step 10 · Weighing, filling and sealing — Powder through an auger or cup filler; blocks vacuum-packed; pouches sealed and labelled",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": true,
+   "title": "Step 10 · Weighing, filling and sealing",
+   "caption": "Powder through an auger or cup filler; blocks vacuum-packed; pouches sealed and labelled"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/packing.mp4",
+    "poster": "/uploads/videos/packing.jpg",
+    "title": "Step 10 · Weighing and filling",
+    "caption": "Jaggery powder weighed and filled into pouches"
+   },
+   {
+    "type": "video",
+    "src": "/uploads/videos/labelling.mp4",
+    "poster": "/uploads/videos/labelling.jpg",
+    "title": "Labelled packs",
+    "caption": "Finished pouches with the product label"
+   },
+   {
+    "type": "video",
+    "src": "/uploads/videos/sealing.mp4",
+    "poster": "/uploads/videos/sealing.jpg",
+    "title": "Sealing the pouch",
+    "caption": "Pouch closed with a hand heat sealer"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-19",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Auger filler",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Auger filler"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-auger-filler.jpg",
+    "caption": "Auger filler",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-20",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Cup filler",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cup filler"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cup-filler.jpg",
+    "caption": "Cup filler",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-21",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Vacuum packager",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Vacuum packager"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg?width=960",
+    "caption": "Vacuum packager",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-22",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Finished labelled pack (front and back)",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Finished labelled pack (front and back)"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/labelled-packs.jpg",
+    "caption": "Finished labelled pack (front and back)"
+   }
+  ]
+ },
+ {
+  "slotId": "steps-7-11-23",
+  "page": "steps-7-11",
+  "pageRoute": "/steps-7-11-cool-to-market",
+  "kind": "photo",
+  "label": "Good jaggery storage room",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Good jaggery storage room"
+  },
+  "items": []
+ },
+ {
+  "slotId": "machines-1",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "3-roller conventional crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "3-roller conventional crusher"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-3-roller-crusher.jpg",
+    "caption": "3-roller conventional crusher",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-2",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "4-roller modified crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "4-roller modified crusher"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-4-roller-crusher.jpg",
+    "caption": "4-roller modified crusher",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-3",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Planetary gear crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Planetary gear crusher"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-planetary-gear-crusher.jpg",
+    "caption": "Planetary gear crusher",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-4",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Horizontal vs vertical rollers side by side",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Horizontal vs vertical rollers side by side"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-horizontal-vs-vertical.jpg",
+    "caption": "Horizontal vs vertical rollers side by side",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-5",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "video",
+  "label": "Crusher demonstration",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": false,
+   "title": "",
+   "caption": "Crusher demonstration"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/crushing-1.mp4",
+    "poster": "/uploads/videos/crushing-1.jpg",
+    "title": "Crusher demonstration",
+    "caption": "Cane crusher running at a SELCO-supported unit"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-6",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Stainless steel wire mesh",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Stainless steel wire mesh"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Woven_wire_mesh.png?width=960",
+    "caption": "Stainless steel wire mesh",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Woven_wire_mesh.png"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-7",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Perforated metal sheet",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Perforated metal sheet"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Perforated_steel.jpg?width=960",
+    "caption": "Perforated metal sheet",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Perforated_steel.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-8",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Muslin / cotton filter bag",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Muslin / cotton filter bag"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-muslin-filter-bag.jpg",
+    "caption": "Muslin / cotton filter bag",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-9",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Nylon mesh filter",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Nylon mesh filter"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/juice-filter-cloth.jpg",
+    "caption": "Mesh filter cloth over the juice drum"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-10",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Multi-level gravity filter box",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Multi-level gravity filter box"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-multi-level-filter.jpg",
+    "caption": "Multi-level gravity filter box",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-11",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Single pan on a brick fire pit",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Single pan on a brick fire pit"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/steel-pan-on-furnace.jpg",
+    "caption": "Single pan on a brick fire pit"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-12",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "2-4 pans in a line",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "2-4 pans in a line"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Fazendo_rapadura_com_tachos_de_cobre.jpg?width=960",
+    "caption": "2-4 pans in a line",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Fazendo_rapadura_com_tachos_de_cobre.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-13",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Steam-jacketed pan",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Steam-jacketed pan"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-steam-jacketed-pan.jpg",
+    "caption": "Steam-jacketed pan",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-14",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Pan bottom with welded fins",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pan bottom with welded fins"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-finned-pan.jpg",
+    "caption": "Pan bottom with welded fins",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-15",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Vacuum pan / multi-stage evaporator",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Vacuum pan / multi-stage evaporator"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-multistage-evaporator.jpg",
+    "caption": "Vacuum pan / multi-stage evaporator",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-16",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Grate furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Grate furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-grate-furnace-diagram.jpg",
+    "caption": "Grate furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-17",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Hearth furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hearth furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-hearth-pit-furnace.jpg",
+    "caption": "Hearth furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-19",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "IISR 2-pan / 3-pan furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "IISR 2-pan / 3-pan furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-iisr-furnaces.jpg",
+    "caption": "IISR 2-pan / 3-pan furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-20",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Perforated skimmer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Perforated skimmer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/skimmer-lifting-scum.jpg",
+    "caption": "Skimmer lifting foam off the juice"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-21",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Automatic scum remover",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Automatic scum remover"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-automatic-scum-remover.jpg",
+    "caption": "Automatic scum remover",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-22",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Pan stirrer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pan stirrer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-pan-stirrer.jpg",
+    "caption": "Pan stirrer",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-23",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Vacuum pan agitator",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Vacuum pan agitator"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-vacuum-pan-agitator.jpg",
+    "caption": "Vacuum pan agitator",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-24",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Optical handheld refractometer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Optical handheld refractometer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Portable_refractometer.JPG?width=960",
+    "caption": "Optical handheld refractometer",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Portable_refractometer.JPG"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-25",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Digital refractometer with LCD",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Digital refractometer with LCD"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-digital-refractometer.jpg",
+    "caption": "Digital refractometer with LCD",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-26",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "video",
+  "label": "How to take a refractometer reading",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": false,
+   "title": "",
+   "caption": "How to take a refractometer reading"
+  },
+  "items": [
+   {
+    "type": "youtube",
+    "youtubeId": "mAQqpZbkUXU",
+    "title": "How to take a refractometer reading",
+    "caption": "YouTube: How to measure sugar using a Brix refractometer"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-27",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Cooling pan (chak) on wheels",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cooling pan (chak) on wheels"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cooling-pan-wheels.jpg",
+    "caption": "Cooling pan (chak) on wheels",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-28",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Jaggery granulator",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Jaggery granulator"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-jaggery-granulator.jpg",
+    "caption": "Jaggery granulator",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-29",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Tunnel cooling system",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Tunnel cooling system"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-tunnel-cooler-2.jpg",
+    "caption": "Tunnel cooling system",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-30",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Food-grade silicone mould",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Food-grade silicone mould"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Muffin-form-silikon.jpg?width=960",
+    "caption": "Food-grade silicone moulds",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Muffin-form-silikon.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-31",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Wooden / teak mould",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Wooden / teak mould"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Colocando_rapadura_nos_moldes_de_madeira.jpg?width=960",
+    "caption": "Wooden / teak mould",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Colocando_rapadura_nos_moldes_de_madeira.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-32",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Hard plastic multi-cavity tray",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hard plastic multi-cavity tray"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-plastic-multi-cavity-tray.jpg",
+    "caption": "Hard plastic multi-cavity tray",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-33",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Stainless steel / aluminium mould",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Stainless steel / aluminium mould"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-steel-mould-grid.jpg",
+    "caption": "Stainless steel / aluminium mould",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-36",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Pulveriser / hammer mill",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pulveriser / hammer mill"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hammer_mill_open_front_full.jpg?width=960",
+    "caption": "Pulveriser / hammer mill",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Hammer_mill_open_front_full.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-37",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Solar / tray dryer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Solar / tray dryer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/solar-tray-dryer.jpg",
+    "caption": "Solar / tray dryer"
+   }
+  ]
+ },
+ {
+  "slotId": "machines-38",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Vibratory sifter, 3 mm",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Vibratory sifter, 3 mm"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vibrationssiebmaschine.jpg?width=960",
+    "caption": "Vibratory sifter",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Vibrationssiebmaschine.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-39",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Auger filler machine",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Auger filler machine"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-auger-filler-2.jpg",
+    "caption": "Auger filler machine",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-40",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Cup filler machine",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cup filler machine"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cup-filler.jpg",
+    "caption": "Cup filler machine",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-41",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Vacuum packager",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Vacuum packager"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg?width=960",
+    "caption": "Vacuum packager",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Vacuum_sealer_with_food_sealed_on_wooden_table_and_rolls_of_plastic_for_sealing.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "machines-42",
+  "page": "machines",
+  "pageRoute": "/machines",
+  "kind": "photo",
+  "label": "Pouch packer / heat sealer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Pouch packer / heat sealer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/heat-sealer.jpg",
+    "caption": "Pouch packer / heat sealer"
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-1",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Solar panels at the Pandavapura unit",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Solar panels at the Pandavapura unit"
+  },
+  "items": []
+ },
+ {
+  "slotId": "plan-your-unit-2",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "AC direct drive panel and 5 HP crusher",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "AC direct drive panel and 5 HP crusher"
+  },
+  "items": []
+ },
+ {
+  "slotId": "plan-your-unit-3",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "video",
+  "label": "Solar-powered crusher running",
+  "placeholder": {
+   "tag": "Insert video",
+   "icon": false,
+   "title": "",
+   "caption": "Solar-powered crusher running"
+  },
+  "items": [
+   {
+    "type": "video",
+    "src": "/uploads/videos/crushing-1.mp4",
+    "poster": "/uploads/videos/crushing-1.jpg",
+    "title": "Crusher running at the unit",
+    "caption": "Cane crushed and bagasse collected below the crusher"
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-4",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "IISR 2-pan furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "IISR 2-pan furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-iisr-2-pan-furnace.jpg",
+    "caption": "IISR 2-pan furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-5",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "IISR improved 3-pan furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "IISR improved 3-pan furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-iisr-3-pan-furnace.jpg",
+    "caption": "IISR improved 3-pan furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-6",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Modified pans for jaggery furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Modified pans for jaggery furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-finned-pan.jpg",
+    "caption": "Modified pans for jaggery furnace",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-7",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Cane fed by hand beside a heap",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cane fed by hand beside a heap"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cane-feeding-traditional.jpg",
+    "caption": "Cane fed by hand beside a heap",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-8",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Multi-roller crushers with conveyor",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Multi-roller crushers with conveyor"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cane-conveyor-crusher.jpg",
+    "caption": "Multi-roller crushers with conveyor",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-9",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Additives stirred into open pan",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Additives stirred into open pan"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-open-pan-additives-2.jpg",
+    "caption": "Additives stirred into open pan",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-10",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Dosing tanks and pipelines",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Dosing tanks and pipelines"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-clarifier-dosing-tanks.jpg",
+    "caption": "Dosing tanks and pipelines",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-11",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Skimming scum with long ladles",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Skimming scum with long ladles"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/skimming-scum.jpg",
+    "caption": "Skimming scum with long ladles"
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-12",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Clarifier unit and diagram",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Clarifier unit and diagram"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/skimming-scum.jpg",
+    "caption": "Removing scum from the clarifying juice"
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-13",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Large open pan, steam rising",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Large open pan, steam rising"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Making_Jaggery_%28Gur%29_in_Punjab.jpg?width=960",
+    "caption": "Large open pan, steam rising",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Making_Jaggery_%28Gur%29_in_Punjab.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-14",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Stainless steel evaporator line",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Stainless steel evaporator line"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-ss-evaporator-line.jpg",
+    "caption": "Stainless steel evaporator line",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-15",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Cooling in open pans",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Cooling in open pans"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-cooling-tank-hand-stirring-2.jpg",
+    "caption": "Cooling in open pans",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-16",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Mechanised cooling trays",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mechanised cooling trays"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-tunnel-cooler.jpg",
+    "caption": "Mechanised cooling trays",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-17",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Hand moulding by workers",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hand moulding by workers"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Colocando_rapadura_nos_moldes_de_madeira.jpg?width=960",
+    "caption": "Hand moulding by workers",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Colocando_rapadura_nos_moldes_de_madeira.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-18",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Automated mould depositor",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Automated mould depositor"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-mould-depositor-2.jpg",
+    "caption": "Automated mould depositor",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-19",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Rows of bucket blocks",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Rows of bucket blocks"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery_dans_une_sucrerie_traditionnelle_%28Kallikoppalu%2C_Inde%29_%2814528469953%29.jpg?width=960",
+    "caption": "Jaggery blocks ready for market, Karnataka",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery_dans_une_sucrerie_traditionnelle_%28Kallikoppalu%2C_Inde%29_%2814528469953%29.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-20",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Machine-released uniform blocks",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Machine-released uniform blocks"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-uniform-round-blocks.jpg",
+    "caption": "Machine-released uniform blocks",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-21",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Bagasse spread in the field",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse spread in the field"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sugarcane_bagasse.jpg?width=960",
+    "caption": "Sugarcane bagasse",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Sugarcane_bagasse.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-22",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Rotary bagasse dryer",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Rotary bagasse dryer"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-rotary-bagasse-dryer.jpg",
+    "caption": "Rotary bagasse dryer",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-23",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Hand-feeding the furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Hand-feeding the furnace"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/furnace-mouth-fire.jpg",
+    "caption": "Hand-feeding the furnace"
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-24",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Bagasse boiler and feed system",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Bagasse boiler and feed system"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-bagasse-boiler-diagram.jpg",
+    "caption": "Bagasse boiler and feed system",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-25",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Open fire under a large pan",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Open fire under a large pan"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaggery.jpg?width=960",
+    "caption": "Open fire under a large pan",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Jaggery.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "plan-your-unit-26",
+  "page": "plan-your-unit",
+  "pageRoute": "/plan-your-unit",
+  "kind": "photo",
+  "label": "Steam heating system",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Steam heating system"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-steam-heating-system.jpg",
+    "caption": "Steam heating system",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "more-case-studies-1",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Sarvaay REJP plant, Pune",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Sarvaay REJP plant, Pune"
+  },
+  "items": [
+   {
+    "type": "youtube",
+    "youtubeId": "86YvVO8Dcvg",
+    "title": "Sarvaay REJP plant",
+    "caption": "YouTube: World's first automated jaggery processing plant (Sarvaay)"
+   }
+  ]
+ },
+ {
+  "slotId": "more-case-studies-2",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "IIT Bombay mobile jaggery plant on a tractor trolley",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "IIT Bombay mobile jaggery plant on a tractor trolley"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pdf-mobile-jaggery-plant.jpg",
+    "caption": "IIT Bombay mobile jaggery plant on a tractor trolley",
+    "credit": {
+     "text": "Jaggery Processing (SELCO Foundation document)"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "more-case-studies-3",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Liquid jaggery (kakvi) bottles, Kolhapur",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Liquid jaggery (kakvi) bottles, Kolhapur"
+  },
+  "items": [
+   {
+    "type": "image",
+    "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Kakvi_-_Kolhapuri_liquid_jaggery_%28Organic_Chemical-free%29.jpg?width=960",
+    "caption": "Liquid jaggery (kakvi) bottles, Kolhapur",
+    "credit": {
+     "text": "Wikimedia Commons",
+     "url": "https://commons.wikimedia.org/wiki/File:Kakvi_-_Kolhapuri_liquid_jaggery_%28Organic_Chemical-free%29.jpg"
+    }
+   }
+  ]
+ },
+ {
+  "slotId": "more-case-studies-4",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Biomass gasifier at the Gokak common facility",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Biomass gasifier at the Gokak common facility"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-5",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "IISR modern jaggery unit with three-pan furnace",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "IISR modern jaggery unit with three-pan furnace"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-6",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Mandya or Mudhol jaggery park",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mandya or Mudhol jaggery park"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-7",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Mahalingappa Itnal with flavoured jaggery",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mahalingappa Itnal with flavoured jaggery"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-8",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "CANE FARMS products",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "CANE FARMS products"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-9",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Organic jaggery powder, Tirunelveli",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Organic jaggery powder, Tirunelveli"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-10",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Neikkarapatti jaggery auction / family unit",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Neikkarapatti jaggery auction / family unit"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-11",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Marayoor jaggery balls and farm shed",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Marayoor jaggery balls and farm shed"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-12",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Muzaffarnagar kolhu",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Muzaffarnagar kolhu"
+  },
+  "items": []
+ },
+ {
+  "slotId": "more-case-studies-13",
+  "page": "more-case-studies",
+  "pageRoute": "/more-case-studies",
+  "kind": "photo",
+  "label": "Mandya aalemane",
+  "placeholder": {
+   "tag": "Insert photo",
+   "icon": false,
+   "title": "",
+   "caption": "Mandya aalemane"
+  },
+  "items": []
+ }
+]

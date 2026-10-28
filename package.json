@@ -1,0 +1,22 @@
+{
+  "name": "jaggery-value-chain-mern",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SELCO Foundation Jaggery Value Chain website: React + Express + MongoDB with an admin panel for photos and videos",
+  "scripts": {
+    "postinstall": "npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -k -n api,web -c yellow,cyan \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "seed": "npm --prefix server run seed",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "check-db": "npm --prefix server run check-db",
+    "sync-uploads": "npm --prefix server run sync-uploads"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module"
+}

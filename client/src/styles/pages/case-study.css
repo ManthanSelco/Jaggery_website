@@ -1,0 +1,12 @@
+
+.pg-case-study{margin:0;background:#F7F3EE;color:#1F2A24;font-family:var(--font-body);font-size:16px}
+.pg-case-study h1,.pg-case-study h2,.pg-case-study h3,.pg-case-study h4{font-family:var(--font-display);margin:0;letter-spacing:-.01em}
+.pg-case-study p{margin:0}
+.pg-case-study a{color:#A55D42}.pg-case-study a:hover{color:#7E4430}
+.pg-case-study .wrap{max-width:1200px;margin:0 auto;padding:0 32px;box-sizing:border-box}
+.pg-case-study .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 22px;border-radius:10px;font-weight:700;font-size:15px;text-decoration:none;min-height:46px;box-sizing:border-box;font-family:var(--font-body);cursor:pointer;border:none}
+.pg-case-study .tag{display:inline-flex;padding:5px 12px;border-radius:999px;font-size:13px;font-weight:700}
+.pg-case-study .page{width:100%;max-width:780px;display:flex;flex-direction:column;gap:6px}
+.pg-case-study .page img{width:100%;height:auto;display:block;background:#fff;border-radius:6px;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+.pg-case-study .page span{font-size:12px;font-weight:700;color:#CFC6BA;text-align:right}
+@media (max-width:720px){.pg-case-study .wrap{padding:0 16px}}
