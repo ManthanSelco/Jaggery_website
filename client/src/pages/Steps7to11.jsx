@@ -94,7 +94,7 @@ export default function Steps7to11() {
           {" "}
           <div style={{ fontSize: "14px", fontWeight: "600" }}>
             <Link to="/">{t("Home")}</Link>
-            {t(" / 11 Steps / Part C")}
+            {t(" / Process / Part C")}
           </div>
           {" "}
           <div className="eyebrow">{t("Part C · Steps 7 to 11")}</div>

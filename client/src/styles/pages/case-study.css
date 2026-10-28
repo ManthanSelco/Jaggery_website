@@ -10,3 +10,11 @@
 .pg-case-study .page img{width:100%;height:auto;display:block;background:#fff;border-radius:6px;box-shadow:0 1px 3px rgba(0,0,0,.25)}
 .pg-case-study .page span{font-size:12px;font-weight:700;color:#CFC6BA;text-align:right}
 @media (max-width:720px){.pg-case-study .wrap{padding:0 16px}}
+
+.pg-case-study .cs-photo{margin:0;border-radius:18px;overflow:hidden;position:relative;box-shadow:0 8px 28px rgba(31,42,36,.12)}
+.pg-case-study .cs-photo img{width:100%;height:auto;max-height:620px;object-fit:cover;display:block}
+.pg-case-study .cs-photo figcaption{position:absolute;left:0;right:0;bottom:0;padding:36px 20px 14px;color:#fff;font-size:14px;font-weight:600;background:linear-gradient(transparent,rgba(0,0,0,.65))}
+@media (max-width:720px){.pg-case-study .cs-photo{border-radius:12px}.pg-case-study .cs-photo figcaption{position:static;background:#1F2A24;padding:10px 14px;font-size:13px}}
+.pg-case-study .page a{display:block}
+.pg-case-study .cs-hint{display:none;font-style:normal;font-size:13px;color:#CFC6BA;text-align:center}
+@media (max-width:720px){.pg-case-study .cs-hint{display:block}}

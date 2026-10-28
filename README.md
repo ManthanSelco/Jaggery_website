@@ -148,5 +148,3 @@ Database (Atlas) dono jagah same hai, isliye box ki setting live site par turant
 - Kannada translation machine se banaya gaya hai. Publish karne se pehle kisi Kannada bolne wale se check karwa lo.
 - Khaali photo/video dabbe website par nahi dikhte. Admin se photo lagaoge to apne aap dikhne lagenge.
 - `ENOTFOUND` error ka matlab hai ki `.env` mein `MONGODB_URI` abhi bhi example wali hai. Asli Atlas string daalo.
-#   J a g g e r y _ w e b s i t e  
- 

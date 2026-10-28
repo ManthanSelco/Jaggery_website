@@ -31,7 +31,7 @@ export default function CaseStudy() {
           {" "}
           <h1 style={{ fontSize: "44px", lineHeight: "1.08", fontWeight: "600" }} id="h-solar-powered-organic-jaggery-making">{t("Solar-powered organic jaggery making")}</h1>
           {" "}
-          <p style={{ fontSize: "17px", lineHeight: "1.5", color: "#5F6B63" }}>{t("Mini jaggery processing unit · Mrs. Soumya · Pandavapura, Mandya district, Karnataka · 7 pages")}</p>
+          <p style={{ fontSize: "17px", lineHeight: "1.5", color: "#5F6B63" }}>{t("Mini jaggery processing unit · Mrs. Soumya · Pandavapura, Mandya district, Karnataka · 4 pages")}</p>
           {" "}
         </div>
         {" "}
@@ -44,10 +44,17 @@ export default function CaseStudy() {
             {t("Download PDF")}
           </a>
           {" "}
-          <a href="/assets/case-study/SELCO_Jaggery_Case_Study.pdf" className="btn" style={{ background: "#fff", color: "#1F2A24", border: "2px solid #1F2A24" }}>{t("Open PDF")}</a>
+          <a href="/assets/case-study/SELCO_Jaggery_Case_Study.pdf" target="_blank" rel="noopener noreferrer" className="btn" style={{ background: "#fff", color: "#1F2A24", border: "2px solid #1F2A24" }}>{t("Open PDF")}</a>
           {" "}
         </div>
         {" "}
+      </section>
+      {" "}
+      <section className="wrap" style={{ paddingBottom: "32px" }}>
+        <figure className="cs-photo">
+          <img src="/uploads/images/pandavapura-unit-team.jpg" alt={t("Mrs. Soumya with the SELCO Foundation team at her solar-powered jaggery unit, Chikkabyadarahalli, Pandavapura")} />
+          <figcaption>{t("Mrs. Soumya with the SELCO Foundation team at her solar-powered jaggery unit, Chikkabyadarahalli, Pandavapura")}</figcaption>
+        </figure>
       </section>
       {" "}
       <section style={{ background: "#3A4740", paddingTop: "32px", paddingBottom: "56px" }}>
@@ -55,38 +62,24 @@ export default function CaseStudy() {
         <div className="wrap" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "24px" }}>
           {" "}
           <div className="page">
-            <img src="/assets/case-study/page-1.png" alt="Case study page 1: title, demographic information, background of the end user and livelihood" />
-            <span>{t("Page 1 of 7")}</span>
+            <a href="/assets/case-study/page-1.jpg" target="_blank" rel="noopener noreferrer" aria-label={t("Open page 1 full size")}><img src="/assets/case-study/page-1.jpg" alt="Case study page 1: title, demographic information, background of the end user, how SELCO identified her and the challenge" loading="eager" /></a>
+            <span>{t("Page 1 of 4")}</span>
+            <em className="cs-hint">{t("Tap a page to open it full size and zoom in.")}</em>
           </div>
           {" "}
           <div className="page">
-            <img src="/assets/case-study/page-2.png" alt="Case study page 2: how SELCO identified the end user, the challenge and problem statement" />
-            <span>{t("Page 2 of 7")}</span>
+            <a href="/assets/case-study/page-2.jpg" target="_blank" rel="noopener noreferrer" aria-label={t("Open page 2 full size")}><img src="/assets/case-study/page-2.jpg" alt="Case study page 2: base ecosystem conditions before intervention, solution and technical specifications, production process" loading="lazy" /></a>
+            <span>{t("Page 2 of 4")}</span>
           </div>
           {" "}
           <div className="page">
-            <img src="/assets/case-study/page-3.png" alt="Case study page 3: base ecosystem conditions before intervention" />
-            <span>{t("Page 3 of 7")}</span>
+            <a href="/assets/case-study/page-3.jpg" target="_blank" rel="noopener noreferrer" aria-label={t("Open page 3 full size")}><img src="/assets/case-study/page-3.jpg" alt="Case study page 3: product varieties, financial specifications, business model, revenue and cost breakdown, market linkages" loading="lazy" /></a>
+            <span>{t("Page 3 of 4")}</span>
           </div>
           {" "}
           <div className="page">
-            <img src="/assets/case-study/page-4.png" alt="Case study page 4: solution, technical specifications and production process" />
-            <span>{t("Page 4 of 7")}</span>
-          </div>
-          {" "}
-          <div className="page">
-            <img src="/assets/case-study/page-5.png" alt="Case study page 5: financial specifications and business model" />
-            <span>{t("Page 5 of 7")}</span>
-          </div>
-          {" "}
-          <div className="page">
-            <img src="/assets/case-study/page-6.png" alt="Case study page 6: market linkages, qualitative outcomes and quantitative impacts" />
-            <span>{t("Page 6 of 7")}</span>
-          </div>
-          {" "}
-          <div className="page">
-            <img src="/assets/case-study/page-7.png" alt="Case study page 7: testimonial and way forward" />
-            <span>{t("Page 7 of 7")}</span>
+            <a href="/assets/case-study/page-4.jpg" target="_blank" rel="noopener noreferrer" aria-label={t("Open page 4 full size")}><img src="/assets/case-study/page-4.jpg" alt="Case study page 4: qualitative outcomes, quantitative impacts, testimonial and way forward" loading="lazy" /></a>
+            <span>{t("Page 4 of 4")}</span>
           </div>
           {" "}
           <div style={{ display: "flex", gap: "10px", flexWrap: "wrap", justifyContent: "center" }}>

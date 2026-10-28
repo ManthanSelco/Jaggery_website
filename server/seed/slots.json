@@ -2537,7 +2537,13 @@
    "title": "",
    "caption": "Solar panels at the Pandavapura unit"
   },
-  "items": []
+  "items": [
+   {
+    "type": "image",
+    "src": "/uploads/images/pandavapura-unit-team.jpg",
+    "caption": "Solar panels at the Pandavapura unit"
+   }
+  ]
  },
  {
   "slotId": "plan-your-unit-2",

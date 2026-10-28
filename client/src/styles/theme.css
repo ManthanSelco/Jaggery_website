@@ -220,7 +220,7 @@ body .pg-index section[style*="163px"]{height:auto !important}
 .contact-page .contact-addr{color:var(--muted)}
 @media (max-width:700px){.site-footer-contact{padding:0 20px 28px}}
 .pg-contact{background:var(--cream);color:var(--ink);font-family:var(--font-body)}
-.pg-contact .wrap{max-width:1200px;margin:0 auto;padding-left:32px;padding-right:32px}
+.pg-contact .wrap{max-width:1200px;margin:0 auto;padding-left:32px;padding-right:32px;box-sizing:border-box}
 .pg-contact .btn{display:inline-flex;align-items:center;gap:8px;padding:13px 22px;border-radius:10px;font-weight:600;font-size:15px;text-decoration:none}
 .pg-contact .page-hero a{color:#fff}
 .pg-contact .muted{color:var(--muted)}
@@ -234,3 +234,25 @@ body .pg-index section[style*="163px"]{height:auto !important}
 /* footer = contact details only, identical on every page */
 .site-footer .site-footer-contact{padding-top:56px}
 .site-footer .site-footer-contact .contact{border-top:0;padding-top:0}
+
+/* ---------- small phones (≤ 480px): no sideways scrolling ---------- */
+@media (max-width:480px){
+  /* wide card grids become one column */
+  body .pg :is([style*="minmax(240px"],[style*="minmax(250px"],[style*="minmax(260px"],[style*="minmax(300px"],[style*="minmax(320px"],[style*="minmax(340px"]){grid-template-columns:minmax(0,1fr) !important}
+  /* never let a grid/flex child force the page wider than the screen */
+  body .pg [style*="grid-template-columns"]>*{min-width:0}
+  body .pg img,body .pg video,body .pg iframe{max-width:100%}
+  body .pg h1{font-size:clamp(30px,9vw,40px) !important;line-height:1.1 !important}
+  body .pg h2{font-size:clamp(24px,7vw,32px) !important;line-height:1.15 !important}
+  body .pg .wrap{padding-left:16px !important;padding-right:16px !important}
+  body .pg :is(p,li,td,span){overflow-wrap:anywhere}
+  .vp-tag,.vp-item em,.ph-credit{font-size:11px !important}
+}
+@media (max-width:380px){
+  .site-bar{padding:0 12px;gap:6px}
+  .site-actions{gap:2px}
+  .icon-btn{width:38px;height:38px}
+  .brand img,.brand.light img{height:38px}
+  body .pg :is([style*="minmax(200px"],[style*="minmax(220px"]){grid-template-columns:minmax(0,1fr) !important}
+}
+@media (max-width:480px){body .pg .grid{grid-template-columns:minmax(0,1fr) !important}body .pg .grid>*{min-width:0}}
