@@ -256,3 +256,8 @@ body .pg-index section[style*="163px"]{height:auto !important}
   body .pg :is([style*="minmax(200px"],[style*="minmax(220px"]){grid-template-columns:minmax(0,1fr) !important}
 }
 @media (max-width:480px){body .pg .grid{grid-template-columns:minmax(0,1fr) !important}body .pg .grid>*{min-width:0}}
+
+/* Jaggery logo (square, has its own dark background) */
+.brand img,.brand.light img{height:52px;width:52px;background:none !important;padding:0 !important;box-shadow:none !important;border-radius:12px}
+@media (max-width:700px){.brand img,.brand.light img{height:44px;width:44px}}
+@media (max-width:380px){.brand img,.brand.light img{height:40px;width:40px}}

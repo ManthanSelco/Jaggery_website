@@ -1,3 +1,4 @@
+import { SHOW_CONTACT } from '../lib/siteConfig.js';
 import { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import Brand from './Brand.jsx';
@@ -12,8 +13,8 @@ export const NAV = [
   { to: '/plan-your-unit', key: '/plan-your-unit', label: 'Plan your unit' },
   { to: '/case-study', key: '/case-study', label: 'Case study' },
   { to: '/more-case-studies', key: '/more-case-studies', label: 'More stories' },
-  { to: '/contact', key: '/contact', label: 'Contact' },
 ];
+if (SHOW_CONTACT) NAV.push({ to: '/contact', key: '/contact', label: 'Contact' });
 
 export function LangSwitch({ className = '' }) {
   const { lang, setLang } = useLang();

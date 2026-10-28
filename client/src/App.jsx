@@ -1,3 +1,4 @@
+import { SHOW_CONTACT } from './lib/siteConfig.js';
 import { lazy, Suspense } from 'react';
 import { Routes, Route, Navigate, useLocation, Link } from 'react-router-dom';
 import ScrollToHash from './components/ScrollToHash.jsx';
@@ -47,7 +48,7 @@ export default function App() {
         <Route path="/plan-your-unit" element={<PlanYourUnit />} />
         <Route path="/case-study" element={<CaseStudy />} />
         <Route path="/more-case-studies" element={<MoreCaseStudies />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/contact" element={SHOW_CONTACT ? <Contact /> : <Navigate to="/" replace />} />
         <Route path="/admin/*" element={<Admin />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

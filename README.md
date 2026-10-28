@@ -37,6 +37,10 @@ jaggery-mern/
 
 **Pehle se seed kiya hai?** `npm install` phir `npm run seed` chalao. Ye sirf nayi photos/videos jodta hai. Tumhari upload ki hui photos waise hi rehti hain, aur jo pehle se hai woh dobara nahi judta (duplicate nahi banta). `--reset` mat chalana, warna admin wale badlav chale jaayenge.
 
+## Site switches (`client/src/lib/siteConfig.js`)
+- `SHOW_CONTACT = false`: Contact page, menu ka "Contact" aur footer (SELCO contact details) abhi chhupe hue hain. Wapas dikhane ke liye `true` karo aur push karo. Kuch bhi delete nahi kiya gaya.
+- `LOGO = '/jaggery-logo.svg'`: header ka logo. Purana SELCO logo `client/public/selco-logo.png` mein rakha hai.
+
 ## Pehli baar setup
 
 **Zaroorat:** Node.js 20 ya naya, aur ek free MongoDB Atlas account.
